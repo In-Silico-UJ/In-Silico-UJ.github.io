@@ -17,4 +17,4 @@ anna.lewan@student.uj.edu.pl
 
 # Opiekun naukowy
 dr hab. Krzysztof Murzyn <br>
-Zakład Biofizyki Obliczeniowej i Bioinformatyki
+Zakład Biofizyki Obliczeniowej i Bioinformatyki, WBBiB UJ
