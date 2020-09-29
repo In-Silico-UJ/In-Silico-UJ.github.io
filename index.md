@@ -18,3 +18,6 @@ anna.lewan@student.uj.edu.pl
 # Opiekun naukowy
 dr hab. Krzysztof Murzyn <br>
 Zakład Biofizyki Obliczeniowej i Bioinformatyki, WBBiB UJ
+
+# Statut Koła
+[Statut KNSB In Silico do pobrania](https://drive.google.com/file/d/1NE_aIkMi_YMjIaBzc6EDfrvpHvMEENd7/view?usp=sharing)
