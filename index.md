@@ -12,8 +12,11 @@ j.havranek@student.uj.edu.pl
 
 ### Wiceprezes
 
-Anna Lewan <br> 
-anna.lewan@student.uj.edu.pl
+Kinga Żarska <br>
+kinga.zarska@student.uj.edu.pl
+
+Ekaterina Mashchenko <br> 
+ekaterina.mashchenko@student.uj.edu.pl
 
 # Opiekun naukowy
 dr hab. Krzysztof Murzyn <br>
