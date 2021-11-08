@@ -3,7 +3,7 @@ Jesteśmy młodym kołem naukowym zrzeszającym studentów zainteresowanych tema
 
 Członkiem Koła można łatwo zostać poprzez wypełnienie formularza ukrytego pod przyciskiem powyżej – zapraszamy wszystkich chętnych!
 
-# Zarząd
+# Zarząd 2021/2022
 
 ### Prezes
 
@@ -12,8 +12,8 @@ j.havranek@student.uj.edu.pl
 
 ### Wiceprezes
 
-Kinga Żarska <br>
-kinga.zarska@student.uj.edu.pl
+Aleksandra Gomółka <br>
+aleksandra.gomolka@student.uj.edu.pl
 
 Ekaterina Mashchenko <br> 
 ekaterina.mashchenko@student.uj.edu.pl
