@@ -7,8 +7,8 @@ Członkiem Koła można łatwo zostać poprzez wypełnienie formularza ukrytego 
 
 ### Prezes
 
-Jan Havránek <br>
-j.havranek@student.uj.edu.pl
+Kinga Żarska <br>
+kinga.zarska@student.uj.edu.pl
 
 ### Wiceprezes
 
