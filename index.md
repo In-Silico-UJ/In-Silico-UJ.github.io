@@ -23,4 +23,4 @@ dr hab. Krzysztof Murzyn <br>
 Zakład Biofizyki Obliczeniowej i Bioinformatyki, WBBiB UJ
 
 # Statut Koła
-[Statut KNSB In Silico do pobrania](https://drive.google.com/file/d/1NE_aIkMi_YMjIaBzc6EDfrvpHvMEENd7/view?usp=sharing)
+[Statut KNSB In Silico do pobrania](https://drive.google.com/file/d/1V7J-6-5eetHL7ZYctwoVH7GP4AjBu5B9/view?usp=sharing)
