@@ -12,8 +12,8 @@ kinga.zarska@student.uj.edu.pl
 
 ### Wiceprezes
 
-Aleksandra Gomółka <br>
-aleksandra.gomolka@student.uj.edu.pl
+Martyna Janczewska <br>
+martyna.janczewska@student.uj.edu.pl
 
 Ekaterina Mashchenko <br> 
 ekaterina.mashchenko@student.uj.edu.pl
