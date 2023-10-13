@@ -7,16 +7,25 @@ Członkiem Koła można łatwo zostać poprzez wypełnienie formularza ukrytego 
 
 ### Prezes
 
-Kinga Żarska <br>
-kinga.zarska@student.uj.edu.pl
+Sylwia Bożek <br>
+s.bozek@student.uj.edu.pl
 
 ### Wiceprezes
 
-Martyna Janczewska <br>
-martyna.janczewska@student.uj.edu.pl
+Amelia Kurasińska <br>
+amelia.kurasinska@student.uj.edu.pl
 
-Ekaterina Mashchenko <br> 
-ekaterina.mashchenko@student.uj.edu.pl
+### Skarbnik
+
+Deivid Rumiancev <br>
+neufrighand.rumiancev@student.uj.edu.pl
+
+### Członkowie Zarządu Koła
+
+Anastazja Półtorak
+Anna Krzywiecka
+Julia Kwiecińska 
+Tymoteusz Apriasz
 
 # Opiekun naukowy
 dr hab. Krzysztof Murzyn <br>
