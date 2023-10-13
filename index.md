@@ -22,7 +22,7 @@ neufrighand.rumiancev@student.uj.edu.pl
 
 ### Członkowie Zarządu Koła
 
-Anastazja Półtorak <br>
+Anastasiya Pautarak <br>
 Anna Krzywiecka <br>
 Julia Kwiecińska <br> 
 Tymoteusz Apriasz <br>
