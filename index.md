@@ -22,10 +22,10 @@ neufrighand.rumiancev@student.uj.edu.pl
 
 ### Członkowie Zarządu Koła
 
-Anastazja Półtorak
-Anna Krzywiecka
-Julia Kwiecińska 
-Tymoteusz Apriasz
+Anastazja Półtorak <br>
+Anna Krzywiecka <br>
+Julia Kwiecińska <br> 
+Tymoteusz Apriasz <br>
 
 # Opiekun naukowy
 dr hab. Krzysztof Murzyn <br>
