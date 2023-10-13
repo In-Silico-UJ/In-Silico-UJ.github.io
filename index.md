@@ -3,7 +3,7 @@ Jesteśmy młodym kołem naukowym zrzeszającym studentów zainteresowanych tema
 
 Członkiem Koła można łatwo zostać poprzez wypełnienie formularza ukrytego pod przyciskiem powyżej – zapraszamy wszystkich chętnych!
 
-# Zarząd 2021/2022
+# Zarząd 2023/2024
 
 ### Prezes
 
