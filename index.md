@@ -33,4 +33,4 @@ dr hab. Krzysztof Murzyn prof. UJ <br>
 Zakład Biofizyki Obliczeniowej i Bioinformatyki, WBBiB UJ
 
 # Statut Koła
-[Statut KNSB In Silico do pobrania](https://drive.google.com/file/d/1V7J-6-5eetHL7ZYctwoVH7GP4AjBu5B9/view?usp=sharing)
+[Statut KNSB In Silico do pobrania]("/data/doc/Statut_KNSB_In_Silico.pdf")
