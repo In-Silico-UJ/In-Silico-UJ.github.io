@@ -14,21 +14,21 @@ s.bozek@student.uj.edu.pl
 
 Amelia Kurasińska <br>
 amelia.kurasinska@student.uj.edu.pl
+Mikołaj Turczyniak <br>
+mikolaj.turczyniak@student.uj.edu.pl
 
 ### Skarbnik
 
-Deivid Rumiancev <br>
-neufrighand.rumiancev@student.uj.edu.pl
+Mikołaj Turczyniak <br>
+mikolaj.turczyniak@student.uj.edu.pl
 
 ### Członkowie Zarządu Koła
 
 Anastasiya Pautarak <br>
-Anna Krzywiecka <br>
-Julia Kwiecińska <br> 
-Tymoteusz Apriasz <br>
+Zofia Sikorska <br>
 
 # Opiekun naukowy
-dr hab. Krzysztof Murzyn <br>
+dr hab. Krzysztof Murzyn prof. UJ <br>
 Zakład Biofizyki Obliczeniowej i Bioinformatyki, WBBiB UJ
 
 # Statut Koła
