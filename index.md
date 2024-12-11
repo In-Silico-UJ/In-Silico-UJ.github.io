@@ -3,7 +3,10 @@ Jesteśmy młodym kołem naukowym zrzeszającym studentów zainteresowanych tema
 
 Członkiem Koła można łatwo zostać poprzez wypełnienie formularza ukrytego pod przyciskiem powyżej – zapraszamy wszystkich chętnych!
 
-# Zarząd 2023/2024
+# Zarząd 2024/2025
+
+### Adres mailowy KNSB In Silico
+kn.insilico@uj.edu.pl
 
 ### Prezes
 
