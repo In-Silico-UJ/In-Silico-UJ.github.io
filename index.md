@@ -14,6 +14,7 @@ s.bozek@student.uj.edu.pl
 
 Amelia Kurasińska <br>
 amelia.kurasinska@student.uj.edu.pl
+
 Mikołaj Turczyniak <br>
 mikolaj.turczyniak@student.uj.edu.pl
 
